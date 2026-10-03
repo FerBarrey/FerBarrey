@@ -1,4 +1,14 @@
- Hola, soy Fernando Barreyro 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2E86DE&height=200&section=header&text=Fernando%20Barreyro&fontSize=46&fontColor=ffffff&fontAlignY=36&fontFamily=Segoe%20UI,Helvetica%20Neue,Arial,sans-serif&desc=Gesti%C3%B3n%20de%20negocios%20%C2%B7%20Proyectos%20%C2%B7%20IA%20aplicada%20en%20el%20sector%20p%C3%BAblico%20y%20privado&descSize=17&descAlignY=58" width="100%" alt="Fernando Barreyro"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernandobarreyro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/FerBarrey/notas-tecnicas-smn"><img src="https://img.shields.io/badge/Notas%20t%C3%A9cnicas-0B3D91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Notas técnicas"/></a>
+  <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=for-the-badge" alt="Buenos Aires"/>
+</p>
+
+### Hola 👋
 
 **Consultor de gestión de proyectos en el Servicio Meteorológico Nacional (SMN)** · Profesor universitario (UCA · UADE) ·
 MBA (UCA) · Master in Policy Analysis (ITBA) · Buenos Aires 🇦🇷
@@ -6,7 +16,7 @@ MBA (UCA) · Master in Policy Analysis (ITBA) · Buenos Aires 🇦🇷
 Trabajo donde se cruzan los datos, la gestión pública y la tecnología: planificación, monitoreo y evaluación de proyectos,
 investigación con usuarios y **análisis de datos con Python y NLP** aplicado a servicios públicos y a la gestión del riesgo de desastres.
 Aprendí IA generativa de forma autodidacta y la aplico a problemas reales de gestión.
-#
+
 ## 📄 Notas técnicas publicadas
 
 - **[Análisis Estratégico de Experiencia Ciudadana (CX) mediante Procesamiento de Lenguaje Natural](http://hdl.handle.net/20.500.12160/3316)**<br>
@@ -39,8 +49,17 @@ Antes trabajé en banca y seguros (Citibank, Suizo Argentina, SudAmérica Seguro
 
 ## 🛠️ Herramientas y habilidades
 
-**Datos e IA:** Python · pandas · Jupyter · NLP (Transformers, LDA) · Web scraping · IA generativa y prompt engineering<br>
-**Análisis y gestión:** Power BI · métodos de investigación · encuestas y análisis estadístico · tableros de monitoreo y evaluación · indicadores de gestión<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/NLP-Transformers%20%C2%B7%20LDA-6A1B9A?style=flat-square" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/IA%20generativa-Prompt%20engineering-10A37F?style=flat-square" alt="IA generativa"/>
+</p>
+
+**Análisis y gestión:** métodos de investigación · encuestas y análisis estadístico · tableros de monitoreo y evaluación · indicadores de gestión<br>
 **Idiomas:** español (nativo) · inglés (profesional completo)
 
 ## 🧪 Proyectos
@@ -52,4 +71,7 @@ Antes trabajé en banca y seguros (Citibank, Suizo Argentina, SudAmérica Seguro
 
 [LinkedIn](https://www.linkedin.com/in/fernandobarreyro)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:0B3D91&height=100&section=footer" alt=""/>
+</p>
 
