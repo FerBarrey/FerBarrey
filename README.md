@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2E86DE&height=200&section=header&text=Fernando%20Barreyro&fontSize=46&fontColor=ffffff&fontAlignY=36&fontFamily=Segoe%20UI,Helvetica%20Neue,Arial,sans-serif&desc=Gesti%C3%B3n%20de%20negocios%20%C2%B7%20Proyectos%20%C2%B7%20IA%20aplicada%20en%20el%20sector%20p%C3%BAblico%20y%20privado&descSize=17&descAlignY=58" width="100%" alt=" Mg. Fernando Barreyro"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2E86DE&height=200&section=header&text=Mg.%20Fernando%20Barreyro&fontSize=46&fontColor=ffffff&fontAlignY=36&fontFamily=Segoe%20UI,Helvetica%20Neue,Arial,sans-serif&desc=Gesti%C3%B3n%20de%20negocios%20%C2%B7%20Proyectos%20%C2%B7%20IA%20aplicada%20en%20el%20sector%20p%C3%BAblico%20y%20privado&descSize=17&descAlignY=58" width="100%" alt="Mg. Fernando Barreyro · Gestión de negocios · Proyectos · IA aplicada en el sector público y privado"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandobarreyro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/FerBarrey/notas-tecnicas-smn"><img src="https://img.shields.io/badge/Notas%20t%C3%A9cnicas-0B3D91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publicaciones"/></a>
+  <a href="https://github.com/FerBarrey/notas-tecnicas-smn"><img src="https://img.shields.io/badge/Publicaciones-0B3D91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publicaciones"/></a>
   <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=for-the-badge" alt="Buenos Aires"/>
 </p>
 
