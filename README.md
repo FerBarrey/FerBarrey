@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandobarreyro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/FerBarrey/notas-tecnicas-smn"><img src="https://img.shields.io/badge/Notas%20t%C3%A9cnicas-0B3D91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Notas técnicas"/></a>
+  <a href="https://github.com/FerBarrey/notas-tecnicas-smn"><img src="https://img.shields.io/badge/Notas%20t%C3%A9cnicas-0B3D91?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publicaciones"/></a>
   <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-74ACDF?style=for-the-badge" alt="Buenos Aires"/>
 </p>
 
