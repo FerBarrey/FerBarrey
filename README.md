@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2E86DE&height=200&section=header&text=Fernando%20Barreyro&fontSize=46&fontColor=ffffff&fontAlignY=36&fontFamily=Segoe%20UI,Helvetica%20Neue,Arial,sans-serif&desc=Gesti%C3%B3n%20de%20negocios%20%C2%B7%20Proyectos%20%C2%B7%20IA%20aplicada%20en%20el%20sector%20p%C3%BAblico%20y%20privado&descSize=17&descAlignY=58" width="100%" alt="Fernando Barreyro"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:2E86DE&height=200&section=header&text=Fernando%20Barreyro&fontSize=46&fontColor=ffffff&fontAlignY=36&fontFamily=Segoe%20UI,Helvetica%20Neue,Arial,sans-serif&desc=Gesti%C3%B3n%20de%20negocios%20%C2%B7%20Proyectos%20%C2%B7%20IA%20aplicada%20en%20el%20sector%20p%C3%BAblico%20y%20privado&descSize=17&descAlignY=58" width="100%" alt=" Mg. Fernando Barreyro"/>
 </p>
 
 <p align="center">
